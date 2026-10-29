@@ -3,7 +3,7 @@ public class Main {
         // Prints "Hello, World!" and moves the cursor to a new line
         System.out.println("Hello, World!"); 
         
-        int age = 40;
+        int age = 50;
         // You can print variables and combine them with text using '+'
         System.out.println("Age: " + age); 
     }
